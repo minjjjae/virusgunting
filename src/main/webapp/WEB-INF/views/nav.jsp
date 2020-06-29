@@ -10,7 +10,6 @@
 			<img src="<c:url value='/images/home/logo.jpg'/>" id="logotop" width="50px" height="50px" class="d-inline-block align-top">
 			<span class="logotitle">야 관 문</span>
 		</a>
-
 		<div class="collapse navbar-collapse" id="navbarSupportedContent">
 			<ul class="navbar-nav" style="margin: auto">
 				<li class="nav-item active">
